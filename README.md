@@ -55,7 +55,7 @@
 
 - **Email**: [afzalmohd44099@gmail.com](mailto:afzalmohd44099@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/afzal-mohd](https://www.linkedin.com/in/afzal-mohd)  
-- **LeetCode**: [leetcode.com/MohdAfzal123](https://leetcode.com/MohdAfzal123/)  
+- **LeetCode**: https://leetcode.com/u/MohdAfzalAli/ 
 - **HackerRank**: [hackerrank.com/MohdAfzal123](https://www.hackerrank.com/MohdAfzal123)
 
 ---
