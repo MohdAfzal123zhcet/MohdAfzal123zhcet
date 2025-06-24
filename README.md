@@ -6,8 +6,8 @@
   <a href="mailto:afzalmohd44099@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/afzal-mohd">💼 LinkedIn</a> •
   <a href="https://github.com/MohdAfzal123zhcet">🐙 GitHub</a> •
-  <a href="https://leetcode.com/MohdAfzal123/">⚔️ LeetCode</a> •
-  <a href="https://www.hackerrank.com/MohdAfzal123">🏅 HackerRank</a>
+  <a href=" https://leetcode.com/u/MohdAfzalAli/ ">⚔️ LeetCode</a> •
+  <a href="https://www.hackerrank.com/profile/afzalmohd44099">🏅 HackerRank</a>
 </p>
 
 ---
