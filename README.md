@@ -38,7 +38,7 @@
 
 - ✅ Solved 300+ DSA problems across platforms  
 - 🏅 5⭐ in SQL on HackerRank  
-- 🎯 GATE CSE Qualified (Score: 458)
+- 🎯 Two times GATE CSE Qualified with (Gate Score: 458@2024)
 
 ---
 
