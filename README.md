@@ -25,7 +25,7 @@
 
 | 💻 Languages | 🧰 Tools & Frameworks | 💾 Databases | 🧪 Other |
 |-------------|----------------------|--------------|---------|
-| Java, Python, JavaScript, C/C++ | Spring Boot, JPA, Hibernate, React, Maven | MySQL | Git,Docker, Postman, IntelliJ, Excel, Linux, Windows |
+| Java, Python, JavaScript, C/C++ | Spring Boot, JPA, Hibernate, React, Maven | MySQL,H2,PostgreSQL | Git,Docker, Postman, IntelliJ, Excel, Linux, Windows |
 
 ---
 
