@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 M.Tech in Software Engineering, Aligarh Muslim University  
+🎓 B.Tech in Computer Engineering, Aligarh Muslim University  
 💻 Passionate about Java, Spring Boot, and building scalable backend systems  
 🌐 Experience in full-stack development (React, HTML, CSS, JS)  
 🎯 300+ DSA problems solved | GATE CSE Qualified (2023 & 2024)
