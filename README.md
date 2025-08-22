@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mohd Afzal 👋</h1>
 <p align="center">
-  <b font size="30px">Java Full Stack Developer</b>
+  <b font size="60px">Java Full Stack Developer</b>
 </p>
 <p align="center">
   <a href="mailto:afzalmohd44099@gmail.com">📧 Email</a> •
