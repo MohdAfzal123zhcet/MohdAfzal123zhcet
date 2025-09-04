@@ -38,9 +38,11 @@
 
 - ✅ Solved 300+ DSA problems across platforms  
 - 🏅 5⭐ in SQL on HackerRank  
-- 🎯 Two times GATE CSE Qualified with (Gate Score: 458@2024)
+- 🎓 Two-time GATE CSE Qualified (Gate Score: 458 in 2024)  
+- 📘 Qualified JEE Mains with a score of **112/120** in Physics (2019)  
+- 🌐 Achieved **AIR 2200** in AKTU Engineering Entrance Exam out of 100,000+ candidates  
+- 🔹 Secured **Rank 170** in AMUEEE Engineering Entrance Exam out of 25,000+ candidates  
 
----
 
 ## 📊 GitHub Stats
 
